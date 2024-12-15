@@ -1,0 +1,7 @@
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.csproj.AssemblyReference.cache
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.AssemblyInfoInputs.cache
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.AssemblyInfo.cs
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.csproj.CoreCompileInputs.cache
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91976\OneDrive\Desktop\Swapnil Jadhav\EmployeeRegistration\EmployeeRegistration\obj\Debug\net7.0\EmployeeRegistration.MvcApplicationPartsAssemblyInfo.cache
